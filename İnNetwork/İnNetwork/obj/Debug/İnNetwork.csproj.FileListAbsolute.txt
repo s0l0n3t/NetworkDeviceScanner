@@ -1,0 +1,6 @@
+c:\users\s3cure\documents\visual studio 2017\Projects\İnNetwork\İnNetwork\bin\Debug\İnNetwork.exe.config
+c:\users\s3cure\documents\visual studio 2017\Projects\İnNetwork\İnNetwork\bin\Debug\İnNetwork.exe
+c:\users\s3cure\documents\visual studio 2017\Projects\İnNetwork\İnNetwork\bin\Debug\İnNetwork.pdb
+c:\users\s3cure\documents\visual studio 2017\Projects\İnNetwork\İnNetwork\obj\Debug\İnNetwork.csprojResolveAssemblyReference.cache
+c:\users\s3cure\documents\visual studio 2017\Projects\İnNetwork\İnNetwork\obj\Debug\İnNetwork.exe
+c:\users\s3cure\documents\visual studio 2017\Projects\İnNetwork\İnNetwork\obj\Debug\İnNetwork.pdb
