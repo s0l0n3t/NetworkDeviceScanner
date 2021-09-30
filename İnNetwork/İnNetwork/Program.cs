@@ -26,22 +26,16 @@ namespace İnNetwork
                     {
                         son_satır++;
                         _ping_Do = _ping.Send(Yerel_baslangıc + Yerel_Devam + son_satır);
-                        Console.WriteLine(Yerel_baslangıc + Yerel_Devam + son_satır + ";" + _ping_Do.Status);
-                        
+                        Console.WriteLine(Yerel_baslangıc + Yerel_Devam + son_satır + ";" + _ping_Do.Status);                  
+                    }
                 }
-
-
-                }
-            
             else
             {
                 Console.WriteLine("Lütfen başlamak için 'start' komutunu kullanın.");
                 return;
 
 
-            }
-            
-            
+            }           
         }
         public static void Main(string[] args)
         {
@@ -55,8 +49,6 @@ namespace İnNetwork
             İpadress(IPAnalyst);
             Console.WriteLine("\n Tarama tamamlandı.");
             Console.Read();
-        }
-
-       
+        }      
     }
 }
