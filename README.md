@@ -1,3 +1,3 @@
-# -nNetwork
-Lan adres sorgulama
-#Henüz geliştirilmektedir.
+# Summary
+
+Project is network device searching with C# programming language.
